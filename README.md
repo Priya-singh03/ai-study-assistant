@@ -1,4 +1,4 @@
-# AI Study Helper Chatbot
+# ai-study-assistant
 
 An intelligent chatbot built with React and Flask that helps students learn through the Socratic teaching method using Google's Gemini AI. The bot guides students to discover answers themselves rather than just providing solutions.
 
