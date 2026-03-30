@@ -44,7 +44,7 @@ function App() {
   return (
     <div className="App">
       <div className="app-header">
-        <h1>AI Study Helper</h1>
+        <h1>AI Study Assistant</h1>
         <div className="difficulty-selector">
           <label htmlFor="difficulty">Learning Level:</label>
           <select 
